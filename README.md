@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shakhaout-Hossain&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhaout-Hossain&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shakhaout-Hossain&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shakhaout-Hossain&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br>
