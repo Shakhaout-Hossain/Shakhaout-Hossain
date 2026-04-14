@@ -5,6 +5,9 @@
 <h3 align="center">Software Engineer (R&D) building reliable & scalable backend services</h3>
 
 <div align="center">
+  <a href="https://shakhaout-hossain.github.io/rimon-labs">
+    <img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
   <a href="https://github.com/Shakhaout-Hossain">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -25,6 +28,7 @@
 <br>
 
 ### 👨‍💻 About Me
+- 🌐 **Portfolio Site:** [shakhaout-hossain.github.io/rimon-labs](https://shakhaout-hossain.github.io/rimon-labs)
 - 🔭 I am a **Backend Engineer** focusing on testable Java microservices and REST APIs.
 - 💻 Experienced in **Spring Boot, JPA/Hibernate, and Python/FastAPI**.
 - 🐳 Familiar with **Docker**, containerized development, and CI/CD pipelines.
